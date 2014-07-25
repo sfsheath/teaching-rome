@@ -1,4 +1,4 @@
-A collection of texts useful for teaching about the Roman Empire.
+A collection of texts, 3d models, and maybe other resources useful for teaching about the Roman Empire.
 
 gh-pages versions:
 
